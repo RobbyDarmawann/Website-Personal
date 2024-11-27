@@ -52,7 +52,7 @@ Here are some of my recent projects:
 
 ## 🌐 Connect with Me
 
-- _GitHub_: [Muhammad Robby Darmawan](https://github.com/RobbyDarmawann)
+- _GitHub_: [Robby Darmawan](https://github.com/RobbyDarmawann)
 - _LinkedIn_: [Your LinkedIn Profile](#)
 - _Instagram_: [@robby_darmawan_](https://www.instagram.com/robby_darmawan_)
 - _Facebook_: [Muhammad Robby](https://www.facebook.com/people/Muhammad-Robby/pfbid08mXG6xWB7aZq8xVTewWfYZ4PeZ2xLWDxYzmRs6veWhAi52PbE22p6Ubya3EYGQyGl/?rdid=i2b4e8HrWLny3ziy&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DQ1K7J9oM%2F)
