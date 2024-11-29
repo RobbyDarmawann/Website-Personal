@@ -36,7 +36,6 @@ window.onload = () => {
 document.addEventListener("DOMContentLoaded", () => {
   const navbar = document.querySelector("header");
 
-  // Tambahkan atau hapus kelas "scrolled" berdasarkan posisi scroll
   const onScroll = () => {
     if (window.scrollY > 50) {
       navbar.classList.add("scrolled");
@@ -45,9 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   };
 
-  // Dengarkan event scroll
   window.addEventListener("scroll", onScroll);
 
-  // Jalankan sekali untuk inisialisasi saat halaman dimuat
   onScroll();
 });
