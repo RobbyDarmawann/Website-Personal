@@ -18,7 +18,8 @@ Welcome to my GitHub profile! I am an aspiring _Software Engineer_ currently lea
 - _Languages_:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
 - _Tools_:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
@@ -52,7 +53,7 @@ Here are some of my recent projects:
 
 - _GitHub_: [Robby Darmawan](https://github.com/RobbyDarmawann)
 - _LinkedIn_: [Your LinkedIn Profile](#)
-- _Instagram_: [@robby_darmawan_](https://www.instagram.com/robby_darmawan_)
+- _Instagram_: [@robby*darmawan*](https://www.instagram.com/robby_darmawan_)
 - _Facebook_: [Muhammad Robby](https://www.facebook.com/people/Muhammad-Robby/pfbid08mXG6xWB7aZq8xVTewWfYZ4PeZ2xLWDxYzmRs6veWhAi52PbE22p6Ubya3EYGQyGl/?rdid=i2b4e8HrWLny3ziy&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DQ1K7J9oM%2F)
 - _TikTok_: [@robslz](https://www.tiktok.com/@robslz)
 
