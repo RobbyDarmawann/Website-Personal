@@ -34,6 +34,10 @@ header.scrolled {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+header.scrolled a {
+  color: #333; /* Warna tautan saat scroll */
+}
+
 header .logo {
   font-size: 1.5rem;
   font-weight: bold;

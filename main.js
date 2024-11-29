@@ -1,4 +1,4 @@
-// Scroll to Section
+
 function scrollToSection(id) {
   const targetSection = document.getElementById(id);
   if (targetSection) {
@@ -8,7 +8,6 @@ function scrollToSection(id) {
   }
 }
 
-// Typing Effect
 const nameElement = document.getElementById('dynamic-name');
 const nameText = "Muhammad Robby Darmawan";
 let index = 0;
@@ -17,20 +16,38 @@ function typeEffect() {
   if (index < nameText.length) {
     nameElement.textContent += nameText[index];
     index++;
-    setTimeout(typeEffect, 150); // 150ms delay for each character
+    setTimeout(typeEffect, 150); 
   }
 }
 
-// Initialize Typing Effect on Page Load
+
 window.onload = () => {
   typeEffect();
 
-  // Add Smooth Scroll to Navigation Links
   document.querySelectorAll('nav ul li a').forEach(link => {
     link.addEventListener('click', function (e) {
       e.preventDefault();
-      const targetId = this.getAttribute('href').substring(1); // Remove '#' from href
+      const targetId = this.getAttribute('href').substring(1);
       scrollToSection(targetId);
     });
   });
 };
+
+document.addEventListener("DOMContentLoaded", () => {
+  const navbar = document.querySelector("header");
+
+  // Tambahkan atau hapus kelas "scrolled" berdasarkan posisi scroll
+  const onScroll = () => {
+    if (window.scrollY > 50) {
+      navbar.classList.add("scrolled");
+    } else {
+      navbar.classList.remove("scrolled");
+    }
+  };
+
+  // Dengarkan event scroll
+  window.addEventListener("scroll", onScroll);
+
+  // Jalankan sekali untuk inisialisasi saat halaman dimuat
+  onScroll();
+});
