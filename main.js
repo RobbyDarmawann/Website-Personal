@@ -1,3 +1,12 @@
+function scrollToSection(id) {
+  const targetSection = document.getElementById(id);
+  if (targetSection) {
+    targetSection.scrollIntoView({ behavior: 'smooth' });
+  } else {
+    console.error(`Section with ID '${id}' not found.`);
+  }
+}
+
 const nameElement = document.getElementById('dynamic-name');
 const nameText = "Muhammad Robby Darmawan";
 let index = 0;
