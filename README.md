@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I am an aspiring _Software Engineer_ currently lea
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
 - _Tools_:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
   ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-  ! [Android Studio] (https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=000000) 
+  ![Android Studio](https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=000000) 
 
 ---
 
